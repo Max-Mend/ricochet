@@ -1,0 +1,12 @@
+[project]
+name = "app"
+version = "0.1.0"
+authors = ["Max-Mend"]
+authors_email = []
+
+[build]
+compiler = "auto"
+warnings = "Standard"
+cflags = []
+
+[dependencies]
