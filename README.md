@@ -4,7 +4,7 @@ A DVD-logo-style screensaver for the terminal, written in C and built with [Smid
 
 `SMIDR` bounces around your terminal window like the classic DVD logo, changing color every time it hits an edge.
 
-[Watch the demo](assets/ricochet-demo.mp4)
+https://github.com/user-attachments/assets/04766508-714d-461e-9860-709a4b1f2039
 
 ## How it works
 
